@@ -2,11 +2,11 @@
 
 ## Author
 
-**Grace Wangari**
+**Grace Karanja**
 
 ## Overview
 
-This project focuses on the **Exploratory Data Analysis (EDA)** of mobile banking data in Kenya. The analysis was conducted using the **R programming language**, and the results were documented in an RMarkdown-generated report. This submission was prepared as part of an interview for the **Data Analyst position** at Kiboma Research Center.
+This project focuses on the **Exploratory Data Analysis (EDA)** of mobile banking data in Kenya. The analysis was conducted using the **R programming language**, and the results were documented in an RMarkdown-generated report. This submission was prepared as part of an interview for the **Data Analyst position** at a Research Center.
 
 ## Key Highlights
 
